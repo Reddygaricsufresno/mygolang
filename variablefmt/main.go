@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	integerType := 10
-	booleanType := true
+	booleanType := false
 	stringType := "hello world"
 	floatType := 10.001
 	fmt.Printf("%T\n", integerType)
